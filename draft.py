@@ -15,17 +15,7 @@ print(r.getcode())
 
 
 
+#print(TelegramBot.getUpdates())
 
-
-
-
-
-
-'''
-from urllib import request
-url = 'http://www.restapitutorial.com/httpstatuscodes.html'
-r = request.urlopen(url).getcode()
-get_url = request.urlopen(url).geturl()
-info = request.urlopen(url).info()
-print(url, get_url, info, 'Response: ' + str(r), sep='\n')
-'''
+# Use this token to access the HTTP API:
+# 346848783:AAFSCGeP1nbUsq84jWQyqC_0cxMRq6kwoWI
